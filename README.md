@@ -1,5 +1,5 @@
 # Portfolio
-A portfolio of my past work from various programming languages; displaying my versitility and several years of experience.
+A portfolio of my past work from various programming languages; displaying my versitility and several years of experience in programming and general computer science.
 
 Curated by: Rapolas Kulpavicius  
-Intended purpose as of 2024-2025: Sixth Form Applications
+Intended purpose: Sixth Form Applications
